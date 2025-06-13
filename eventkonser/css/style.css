@@ -1,0 +1,22 @@
+body {
+  background-color: #994b7f;
+  font-family: Comic Sans MS;
+}
+
+.bg-space-blue {
+  background-color:#e695b9;
+}
+
+.btn-konser {
+  background-color: #8b4564;
+  color: #ffff;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+h1, h2 {
+  font-family: 'Segoe UI', sans-serif;
+}
